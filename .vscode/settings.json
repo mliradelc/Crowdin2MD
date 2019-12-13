@@ -1,6 +1,0 @@
-{
-    "python.pythonPath": "/usr/local/opt/python/bin/python3.7",
-    "licenser.author": "Maximiliano Lira Del Canto",
-    "licenser.license": "MIT",
-    "licenser.projectName": "Crowdin to Markdown Opencast"
-}
